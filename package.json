@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "sedationh <2493264676@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
 }
