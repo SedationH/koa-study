@@ -5,6 +5,7 @@
   "author": "sedationh <2493264676@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.11.0"
+    "koa": "^2.11.0",
+    "koa-static": "^5.0.0"
   }
 }
